@@ -3,7 +3,6 @@
 This project was inspired by [Steph de Silva](https://twitter.com/StephdeSilva)'s UseR! 2018 Keynote.
 
 **Beyond Syntax: the power and potentiality of open source communities**
-{{< youtube 27FxbDtCFoc >}}
 
 [![](http://img.youtube.com/vi/27FxbDtCFoc/0.jpg)](http://www.youtube.com/watch?v=27FxbDtCFoc "Click to watch")
 
